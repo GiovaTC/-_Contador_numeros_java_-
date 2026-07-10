@@ -56,6 +56,6 @@ public class ResumenDAO {
 
         rs.close();
         st.close();
-        con.close();    
+        con.close();
     }
 }
