@@ -15,5 +15,5 @@ public class Conexion {
     public static Connection conectar() throws Exception {
 
         return DriverManager.getConnection(URL, USER, PASSWORD);
-    }       
+    }
 }
