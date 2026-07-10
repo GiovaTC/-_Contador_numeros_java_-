@@ -42,4 +42,4 @@ public class Resumen {
     public int getMenor() {
         return menor;
     }
-}   
+}
