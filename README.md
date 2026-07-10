@@ -3,6 +3,8 @@
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/fa54a0a6-4cdb-472f-b6a8-6f1f041fb93e" />  
 
+<img width="2551" height="1040" alt="image" src="https://github.com/user-attachments/assets/98104e0e-d685-4ef9-ad1a-eee2359b48d5" />  
+
 ```
 Proyecto muy básico desarrollado en **Java 21 + Consola + MySQL + JDBC**, donde el usuario ingresa una lista de **58 números**, el
 sistema procesa la información, almacena los datos en una base de datos MySQL y posteriormente consulta la información registrada.
